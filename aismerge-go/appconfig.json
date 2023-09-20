@@ -1,0 +1,25 @@
+{
+    "storeEngine": "Elastics",    
+    "redis": {
+        "host": "127.0.0.1",
+        "port": 6379,
+        "database": 2
+    },
+    "db": {
+        "host": "127.0.0.1",
+        "port": 5432,
+        "user": "postgres",
+        "password": "postgres",
+        "dbname": "smcdm_ais"        
+    },
+    "elastics": {
+        "addresses": ["http://127.0.0.1:9200"],
+        "user": "",
+        "password": "",
+        "apiKey": ""
+    },
+    "merge": {
+        "beginTime": "2020-01-01",
+        "endTime": "2023-12-01"
+    }
+}

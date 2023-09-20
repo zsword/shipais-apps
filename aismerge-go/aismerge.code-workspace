@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\GoLang\\gopackage\\src\\go-elasticsearch-7"
+		}
+	],
+	"settings": {}
+}
